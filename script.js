@@ -11,7 +11,7 @@ let birthyear = parseInt(prompt("Enter birth year"));
 let currentyear = parseInt(prompt("Enter Current year"));
 let age;
 function userAge(){
-    age= birthyear-currentyear
+    userAge= birthyear-currentyear
 }
 console.log(userAge());
 
